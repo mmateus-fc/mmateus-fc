@@ -2,10 +2,10 @@
 
 I am Mateus! 😃
 
-## About Me 😃📝📖📝❌❗⁉️💯☑️✔️💭💡💻
-I am a versatile professional with a background in Civil Engineering and Computer Science. 
+## About Me 😃📖📝❌❗⁉️☑️✔️💭💡💻
+I am a professional with a background in Civil Engineering and Computer Science. 📝
 My journey has taken me through structural engineering, data analysis, and data engineering projects.
-All of them where I've had the opportunity to contribute to projects of various scales and complexities.
+All of them were opportunities where I've had the chance to contribute to projects of various scales and complexities. 💯
 
 ## 🌱 Currently Learning
 **Queen Mary University of London**
