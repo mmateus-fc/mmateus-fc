@@ -8,7 +8,7 @@ My journey has taken me through structural engineering, data analysis, and data 
 All of them where I've had the opportunity to contribute to projects of various scales and complexities.
 
 ## 🌱 Currently Learning
-** Queen Mary University of London **
+**Queen Mary University of London**
 - Computer Science
 
 ## 💞️ Collaboration
