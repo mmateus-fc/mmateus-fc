@@ -14,7 +14,8 @@ I am Mateus! 😃
 ## 📫 How to Reach Me
 <!----[![LinkedIn](https://github.com/mmateus-fc/readme_files/blob/main/images/linkedin_icon.png)](https://www.linkedin.com/in/mateus-f-c)--->
 <!-----[![LinkedIn](https://github.com/mmateus-fc/readme_files/blob/main/linkedin_icon.png)](https://www.linkedin.com/in/mateus-f-c)--->
--**LinkedIn** <a href="https://www.linkedin.com/in/mateus-f-c">
+-**LinkedIn** 
+<a href="https://www.linkedin.com/in/mateus-f-c">
   <img src="https://github.com/mmateus-fc/readme_files/blob/main/linkedin_icon.png" alt="LinkedIn" width="20">
 </a>
 
