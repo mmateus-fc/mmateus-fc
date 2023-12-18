@@ -11,21 +11,9 @@ I am Mateus! 😃
 **Queen Mary University of London**
 - Computer Science
 
-## 💞️ Collaboration
-I am open to collaborating on projects that involve innovative solutions, whether it's in the field of structural engineering or data analytics. Let's combine our skills to create something impactful!
-
 ## 📫 How to Reach Me
 - **LinkedIn:** [Your LinkedIn Profile](Your LinkedIn Profile URL)
-- **Email:** [Your Email Address]
-
-Feel free to explore my repositories, and let's connect to discuss exciting opportunities and ideas!
-
-
-- 👋 Hi, I’m @mmateus-fc
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+[![LinkedIn]([link_to_your_icon_image](https://github.com/mmateus-fc/readme_files/blob/main/linkedin_icon.png))](https://www.linkedin.com/in/mateus-f-c/)
 
 <!---
 mmateus-fc/mmateus-fc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
