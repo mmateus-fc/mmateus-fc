@@ -14,10 +14,16 @@ I am Mateus! 😃
 ## 📫 How to Reach Me
 <!----[![LinkedIn](https://github.com/mmateus-fc/readme_files/blob/main/images/linkedin_icon.png)](https://www.linkedin.com/in/mateus-f-c)--->
 <!-----[![LinkedIn](https://github.com/mmateus-fc/readme_files/blob/main/linkedin_icon.png)](https://www.linkedin.com/in/mateus-f-c)--->
--**LinkedIn   ** 
+-**LinkedIn** 
 <a href="https://www.linkedin.com/in/mateus-f-c">
   <img src="https://github.com/mmateus-fc/readme_files/blob/main/linkedin_icon.png" alt="LinkedIn" width="20">
 </a>
+<div style="display: flex; align-items: center;">
+  <a href="https://www.linkedin.com/in/mateus-f-c">
+    <img src="https://github.com/mmateus-fc/readme_files/blob/main/linkedin_icon.png" alt="LinkedIn" width="20">
+  </a>
+  <span style="padding-left: 10px;">LinkedIn</span>
+</div>
 
 <!---
 mmateus-fc/mmateus-fc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
