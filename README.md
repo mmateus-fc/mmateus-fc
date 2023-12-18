@@ -12,8 +12,7 @@ I am Mateus! 😃
 - Computer Science
 
 ## 📫 How to Reach Me
-- **LinkedIn:** [Your LinkedIn Profile](Your LinkedIn Profile URL)
-[![LinkedIn]([images/linkedin-icon.png](https://github.com/mmateus-fc/readme_files/blob/main/linkedin_icon.png))](https://www.linkedin.com/in/mateus-f-c)
+[![LinkedIn](https://github.com/mmateus-fc/readme_files/blob/main/images/linkedin_icon.png)](https://www.linkedin.com/in/mateus-f-c)
 
 <!---
 mmateus-fc/mmateus-fc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
